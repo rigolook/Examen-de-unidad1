@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.clase
 {
+//pequeño error por el apuro perdone
     internal class ejercicios
     {
         internal class TablaMultiplicar
