@@ -14,7 +14,7 @@ namespace ConsoleApp1.clase
             public int MultiplicarNumeroDiez(int numero, int numeroMultiplicado)
             {
 
-                while ((numero! > 0 && numero <= 10) && numeroMultiplicado <= 10)
+                if ((numero! > 0 && numero <= 10) && numeroMultiplicado <= 10)
                 {
 
                     int multi;
